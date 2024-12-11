@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1719974874 source:c:\users\tomas\desktop\tp final programacion\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<string>
+	<cstdlib>
+	"menu.h"
+	"combinaciones.h"
+	"funciones.h"
+
+1571584339 c:\users\tomas\desktop\tp final programacion\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1718228134 c:\users\tomas\desktop\tp final programacion\tpfinal\headers.h
+
+1720050878 c:\users\tomas\desktop\tp final programacion\tpfinal\menu.h
+
+1720050878 c:\users\tomas\desktop\tp final programacion\tpfinal\funciones.h
+
+1718238265 c:\users\tomas\desktop\tp final programacion\tpfinal\dados.h
+
+1718304074 c:\users\tomas\desktop\tp final programacion\tpfinal\juego.h
+
+1719976222 c:\users\tomas\desktop\tp final programacion\tpfinal\combinaciones.h
+
+1719974874 source:c:\users\agust\onedrive\escritorio\tpfinal\main.cpp
+	<iostream>
+	"rlutil.h"
+	<string>
+	<cstdlib>
+	"menu.h"
+	"combinaciones.h"
+	"funciones.h"
+
+1571584339 c:\users\agust\onedrive\escritorio\tpfinal\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1720147909 c:\users\agust\onedrive\escritorio\tpfinal\menu.h
+
+1719976222 c:\users\agust\onedrive\escritorio\tpfinal\combinaciones.h
+
+1720149349 c:\users\agust\onedrive\escritorio\tpfinal\funciones.h
+
+1719974874 source:c:\users\tomas\onedrive\escritorio\tp final - programacion i\main.cpp
+	<iostream>
+	"rlutil.h"
+	<string>
+	<cstdlib>
+	"menu.h"
+	"combinaciones.h"
+	"funciones.h"
+
+1571584339 c:\users\tomas\onedrive\escritorio\tp final - programacion i\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1731600085 c:\users\tomas\onedrive\escritorio\tp final - programacion i\menu.h
+
+1719976222 c:\users\tomas\onedrive\escritorio\tp final - programacion i\combinaciones.h
+
+1720149349 c:\users\tomas\onedrive\escritorio\tp final - programacion i\funciones.h
+
